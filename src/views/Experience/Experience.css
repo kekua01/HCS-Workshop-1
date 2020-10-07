@@ -4,6 +4,7 @@
 
 .timeline-background {
   width: 50%;
+  text-align: center;
 }
 
 .timeline-item {
@@ -17,8 +18,8 @@
 }
 
 .timeline-item:hover {
-  -webkit-transform: scale(2);
-  transform: scale(2);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
   background-color: cornflowerblue;
 }
 
